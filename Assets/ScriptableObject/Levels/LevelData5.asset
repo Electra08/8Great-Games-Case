@@ -1,0 +1,251 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3f4a3b53f3a129d499bb8e32af08385b, type: 3}
+  m_Name: LevelData5
+  m_EditorClassIdentifier: 
+  grids:
+  - position: {x: 0, y: 0.22, z: 0}
+    rotation: {x: 90, y: 0, z: 0}
+    Id: -1
+  - position: {x: -1, y: 0.25, z: 0}
+    rotation: {x: 90, y: 0, z: 0}
+    Id: -1
+  - position: {x: -1, y: 0.25, z: 1}
+    rotation: {x: 90, y: 0, z: 0}
+    Id: -1
+  - position: {x: 0, y: 0.25, z: 1}
+    rotation: {x: 90, y: 0, z: 0}
+    Id: -1
+  - position: {x: 1, y: 0.25, z: 1}
+    rotation: {x: 90, y: 0, z: 0}
+    Id: -1
+  - position: {x: 1, y: 0.25, z: 0}
+    rotation: {x: 90, y: 0, z: 0}
+    Id: -1
+  - position: {x: 1, y: 0.25, z: -1}
+    rotation: {x: 90, y: 0, z: 0}
+    Id: -1
+  - position: {x: 0, y: 0.25, z: -1}
+    rotation: {x: 90, y: 0, z: 0}
+    Id: -1
+  - position: {x: -1, y: 0.25, z: -1}
+    rotation: {x: 90, y: 0, z: 0}
+    Id: -1
+  - position: {x: -2, y: 0.25, z: 2}
+    rotation: {x: 90, y: 0, z: 0}
+    Id: -1
+  - position: {x: -2, y: 0.25, z: 1}
+    rotation: {x: 90, y: 0, z: 0}
+    Id: -1
+  - position: {x: -2, y: 0.25, z: 0}
+    rotation: {x: 90, y: 0, z: 0}
+    Id: -1
+  - position: {x: -2, y: 0.25, z: -1}
+    rotation: {x: 90, y: 0, z: 0}
+    Id: -1
+  - position: {x: -2, y: 0.25, z: -2}
+    rotation: {x: 90, y: 0, z: 0}
+    Id: -1
+  - position: {x: -1, y: 0.25, z: -2}
+    rotation: {x: 90, y: 0, z: 0}
+    Id: -1
+  - position: {x: 0, y: 0.25, z: -2}
+    rotation: {x: 90, y: 0, z: 0}
+    Id: -1
+  - position: {x: 1, y: 0.25, z: -2}
+    rotation: {x: 90, y: 0, z: 0}
+    Id: -1
+  - position: {x: 2, y: 0.25, z: -2}
+    rotation: {x: 90, y: 0, z: 0}
+    Id: -1
+  - position: {x: 2, y: 0.25, z: -1}
+    rotation: {x: 90, y: 0, z: 0}
+    Id: -1
+  - position: {x: 2, y: 0.25, z: 0}
+    rotation: {x: 90, y: 0, z: 0}
+    Id: -1
+  - position: {x: 2, y: 0.25, z: 1}
+    rotation: {x: 90, y: 0, z: 0}
+    Id: -1
+  - position: {x: 2, y: 0.25, z: 2}
+    rotation: {x: 90, y: 0, z: 0}
+    Id: -1
+  - position: {x: 1, y: 0.25, z: 2}
+    rotation: {x: 90, y: 0, z: 0}
+    Id: -1
+  - position: {x: 0, y: 0.25, z: 2}
+    rotation: {x: 90, y: 0, z: 0}
+    Id: -1
+  - position: {x: -1, y: 0.25, z: 2}
+    rotation: {x: 90, y: 0, z: 0}
+    Id: -1
+  walls:
+  - position: {x: -1.9999999, y: 0.25, z: 2.6000001}
+    rotation: {x: -0, y: 90, z: -0}
+    Id: -1
+  - position: {x: -0.99999994, y: 0.25, z: 2.6000001}
+    rotation: {x: -0, y: 90, z: -0}
+    Id: -1
+  - position: {x: 0.00000007152558, y: 0.25, z: 2.6000001}
+    rotation: {x: -0, y: 90, z: -0}
+    Id: -1
+  - position: {x: 1.0000001, y: 0.25, z: 2.6000001}
+    rotation: {x: -0, y: 90, z: -0}
+    Id: -1
+  - position: {x: 2, y: 0.25, z: 2.6000001}
+    rotation: {x: -0, y: 90, z: -0}
+    Id: -1
+  - position: {x: 2.6, y: 0.25, z: 2}
+    rotation: {x: 0, y: 180, z: 0}
+    Id: -1
+  - position: {x: 2.6, y: 0.25, z: 0.99999994}
+    rotation: {x: 0, y: 180, z: 0}
+    Id: -1
+  - position: {x: 2.6, y: 0.25, z: -0.000000052453668}
+    rotation: {x: 0, y: 180, z: 0}
+    Id: -1
+  - position: {x: 2.6, y: 0.25, z: -1}
+    rotation: {x: 0, y: 180, z: 0}
+    Id: -1
+  - position: {x: 2.6, y: 0.25, z: -2}
+    rotation: {x: 0, y: 180, z: 0}
+    Id: -1
+  - position: {x: 2, y: 0.25, z: -2.6000001}
+    rotation: {x: 0, y: 270, z: 0}
+    Id: -1
+  - position: {x: 1.0000001, y: 0.25, z: -2.6000001}
+    rotation: {x: 0, y: 270, z: 0}
+    Id: -1
+  - position: {x: 0.00000007152558, y: 0.25, z: -2.6000001}
+    rotation: {x: 0, y: 270, z: 0}
+    Id: -1
+  - position: {x: -0.99999994, y: 0.25, z: -2.6000001}
+    rotation: {x: 0, y: 270, z: 0}
+    Id: -1
+  - position: {x: -1.9999999, y: 0.25, z: -2.6000001}
+    rotation: {x: 0, y: 270, z: 0}
+    Id: -1
+  - position: {x: -2.6, y: 0.25, z: -1.9999999}
+    rotation: {x: -0, y: 0.000010017912, z: 0}
+    Id: -1
+  - position: {x: -2.6, y: 0.25, z: -0.9999999}
+    rotation: {x: -0, y: 0.000010017912, z: 0}
+    Id: -1
+  - position: {x: -2.6, y: 0.25, z: 0.000000104907336}
+    rotation: {x: -0, y: 0.000010017912, z: 0}
+    Id: -1
+  - position: {x: -2.6, y: 0.25, z: 1.0000001}
+    rotation: {x: -0, y: 0.000010017912, z: 0}
+    Id: -1
+  - position: {x: -2.6, y: 0.25, z: 2}
+    rotation: {x: -0, y: 0.000010017912, z: 0}
+    Id: -1
+  wallEdges:
+  - position: {x: -2.6, y: 0.25, z: 2.6}
+    rotation: {x: -0, y: 0, z: 0}
+    Id: -1
+  - position: {x: 2.6000001, y: 0.25, z: 2.6000001}
+    rotation: {x: -0, y: 90, z: -0}
+    Id: -1
+  - position: {x: 2.6, y: 0.25, z: -2.6}
+    rotation: {x: 0, y: 180, z: 0}
+    Id: -1
+  - position: {x: -2.6, y: 0.25, z: -2.6000001}
+    rotation: {x: 0, y: 270, z: 0}
+    Id: -1
+  blocks:
+  - position: {x: 0, y: 0.22, z: 0}
+    rotation: {x: -0, y: 0, z: 0}
+    Id: -1
+  - position: {x: 1, y: 0.25, z: 0}
+    rotation: {x: -0, y: 0, z: 0}
+    Id: -1
+  passages:
+  - position: {x: 1, y: 0.25, z: 2.8}
+    rotation: {x: -0, y: 180, z: 0}
+    Id: -1
+  - position: {x: 2.8000002, y: 0.25, z: 0.00000009536743}
+    rotation: {x: 0, y: 270, z: 0}
+    Id: -1
+  stickMans:
+  - List:
+    - position: {x: 0.9176493, y: 0.21446115, z: 3.874005}
+      rotation: {x: -0, y: 180, z: 0}
+      Id: 0
+    - position: {x: 0.32637507, y: 0.21446115, z: 3.8736718}
+      rotation: {x: -0, y: 89.99969, z: 0}
+      Id: 0
+    - position: {x: -0.3796245, y: 0.21446115, z: 3.876667}
+      rotation: {x: -0, y: 89.99969, z: 0}
+      Id: 3
+    - position: {x: -1.0696242, y: 0.21446115, z: 3.8766623}
+      rotation: {x: -0, y: 89.99969, z: 0}
+      Id: 3
+    - position: {x: -1.8030062, y: 0.21446115, z: 3.8766446}
+      rotation: {x: -0, y: 89.99969, z: 0}
+      Id: 2
+    - position: {x: -2.5500064, y: 0.21446115, z: 3.8766403}
+      rotation: {x: -0, y: 89.99969, z: 0}
+      Id: 2
+    - position: {x: -3.23, y: 0.21446115, z: 3.88}
+      rotation: {x: -0, y: 89.99969, z: 0}
+      Id: 2
+    - position: {x: -4.11, y: 0.21446115, z: 3.88}
+      rotation: {x: -0, y: 89.99969, z: 0}
+      Id: 2
+  - List:
+    - position: {x: 3.8740056, y: 0.21446115, z: 0.08235089}
+      rotation: {x: 0, y: 270, z: 0}
+      Id: 2
+    - position: {x: 3.8736722, y: 0.21446115, z: 0.67362535}
+      rotation: {x: -0, y: 179.9997, z: -0}
+      Id: 2
+    - position: {x: 3.8766675, y: 0.21446115, z: 1.3796251}
+      rotation: {x: -0, y: 179.9997, z: -0}
+      Id: 0
+    - position: {x: 3.8766625, y: 0.21446115, z: 2.069625}
+      rotation: {x: -0, y: 179.9997, z: -0}
+      Id: 0
+    - position: {x: 3.8766448, y: 0.21446115, z: 2.8030071}
+      rotation: {x: -0, y: 179.9997, z: -0}
+      Id: 0
+    - position: {x: 3.8766403, y: 0.21446115, z: 3.5500078}
+      rotation: {x: -0, y: 179.9997, z: -0}
+      Id: 0
+    - position: {x: 3.88, y: 0.21446115, z: 4.2300014}
+      rotation: {x: -0, y: 179.9997, z: -0}
+      Id: 3
+    - position: {x: 3.88, y: 0.21446115, z: 5.1100016}
+      rotation: {x: -0, y: 179.9997, z: -0}
+      Id: 3
+  wagons:
+  - List:
+    - position: {x: 0, y: 0.25, z: 1}
+      rotation: {x: -0, y: 90, z: -0}
+      Id: 0
+    - position: {x: -1, y: 0.25, z: 1}
+      rotation: {x: -0, y: 90, z: -0}
+      Id: 2
+    - position: {x: -2, y: 0.25, z: 1}
+      rotation: {x: -0, y: 90, z: -0}
+      Id: 2
+  - List:
+    - position: {x: 1, y: 0.25, z: -1}
+      rotation: {x: -0, y: 0, z: 0}
+      Id: 0
+    - position: {x: 1, y: 0.25, z: -2}
+      rotation: {x: -0, y: 0, z: 0}
+      Id: 3
+    - position: {x: 0, y: 0.25, z: -2}
+      rotation: {x: -0, y: 90, z: -0}
+      Id: 0
+  minute: 80
